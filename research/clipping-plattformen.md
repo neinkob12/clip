@@ -204,6 +204,42 @@ Perspektive: Wir sind Clipper (wir schneiden Clips von Streamern, YouTubern, Pod
 
 ---
 
+## 8. Unser Setup (Stand nach Rückfragen)
+
+- **Team:** 2 Personen (Brüder), nach außen als ein Team / eine Marke.
+- **Plattformen:** TikTok, YouTube Shorts, Instagram Reels.
+- **Sprache:** Deutsch und Englisch.
+- **Direktdeals mit deutschen Streamern:** erst später, wenn ein Track Record (Views, Beispiel-Clips, Auszahlungen) vorhanden ist.
+
+### Rechtsform: Einzelunternehmen oder GbR?
+
+| | 2x Einzelunternehmen + gemeinsame Marke | GbR (beide zusammen) |
+|---|---|---|
+| Gründung | jeder meldet ein Gewerbe an | ein Gewerbe für die GbR, Gesellschaftsvertrag empfohlen |
+| Auftritt nach außen | gemeinsamer Markenname möglich (z. B. "XY Clips"), rechtlich zwei Firmen | echtes Team, eine Firma |
+| Kleinunternehmergrenze (25.000 €) | **für jeden einzeln** | nur **einmal** für die GbR |
+| Gewerbesteuer-Freibetrag (24.500 €) | **für jeden einzeln** | nur **einmal** für die GbR |
+| Haftung | jeder für sich | beide gemeinsam, voll und privat |
+| Buchhaltung | jeder macht eine EÜR | EÜR der GbR + gesonderte Feststellung (mehr Aufwand) |
+| Plattform-Accounts (Whop, Vyro) | passt perfekt: KYC läuft ohnehin pro Person | KYC trotzdem pro Person, Geld landet erst privat und muss in die GbR |
+| Wenn einer nach Thailand geht | unkompliziert, jeder regelt seine Steuern selbst | GbR mit einem Partner im Ausland wird steuerlich kompliziert |
+
+**Empfehlung:** Zum Start **zwei getrennte Einzelunternehmen** (Kleinunternehmer) mit **einem gemeinsamen Markennamen**. Jeder hat eigene Plattform-Accounts und eigenes KYC. Das ist günstiger (doppelte Freibeträge), einfacher und passt zur Thailand-Situation. Nach außen tretet ihr trotzdem als Team auf (gemeinsames Logo, gemeinsame Website, gemeinsame E-Mail).
+Später, wenn Direktdeals mit Streamern dazukommen und ein gemeinsamer Vertragspartner gebraucht wird, kann man auf eine GbR oder UG umsteigen.
+
+**Wichtig:** Keine Accounts untereinander teilen und nicht über das Konto des anderen auszahlen lassen. Die meisten Plattformen erlauben nur einen Account pro Person (KYC), Verstöße führen zur Sperre und zum Verlust des Guthabens.
+
+### Account-Struktur
+
+- Pro Person und Sprache eigene Accounts, also z. B. je Bruder:
+  - DE: TikTok, YouTube Shorts, Instagram
+  - EN: TikTok, YouTube Shorts, Instagram
+- Sprachen nicht auf einem Account mischen. Der Algorithmus ordnet Accounts einer Sprache/Region zu, und viele Kampagnen zahlen nur für Views aus bestimmten Ländern (oft US/Tier 1).
+- Alle Accounts in Deutschland aufbauen, bevor es nach Thailand geht, und danach nicht die Region wechseln.
+- Zuerst EN-Accounts für Whop/Vyro-Kampagnen (dort ist das Budget), DE-Accounts parallel für Track Record und spätere Direktdeals.
+
+---
+
 ## Quellen
 
 - [Darebay: Best clipping platforms in 2026, 21 options compared](https://darebay.com/en/earnings/best-clipping-platforms) (Interessenkonflikt: Betreiber ist selbst Plattform)
